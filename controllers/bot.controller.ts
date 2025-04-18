@@ -12,12 +12,12 @@ const KEYBOARDS = {
       [
         { 
           text: "> Updates Channel <", 
-          url: "https://t.me/Private_Bots" 
+          url: "https://t.me/airworksbeyond" 
         }
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: `https://github.com/Private-Bots-Official/Temp-Mail-Bot`
+        url: ``
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -31,7 +31,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: `https://github.com/Private-Bots-Official/Temp-Mail-Bot`
+        url: ``
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -44,7 +44,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: `https://github.com/Private-Bots-Official/Temp-Mail-Bot`
+        url: ``
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -54,12 +54,12 @@ const KEYBOARDS = {
       [
         { 
           text: "Join Channel", 
-          url: "https://t.me/Private_Bots" 
+          url: "https://t.me/airworksbeyond" 
         }
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: `https://github.com/Private-Bots-Official/Temp-Mail-Bot`
+        url: ``
       }],
     ]
   } satisfies InlineKeyboardMarkup
