@@ -17,7 +17,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: ``
+        url: `https://github.com/akggautamasar/Temp-Mail-Bot.git`
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -31,7 +31,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: ``
+        url: `https://github.com/akggautamasar/Temp-Mail-Bot.git`
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -44,7 +44,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: ``
+        url: `https://github.com/akggautamasar/Temp-Mail-Bot.git`
       }],
     ]
   } satisfies InlineKeyboardMarkup,
@@ -59,7 +59,7 @@ const KEYBOARDS = {
       ],
       [{ 
         text: "Source Code ↗️", 
-        url: ``
+        url: `https://github.com/akggautamasar/Temp-Mail-Bot.git`
       }],
     ]
   } satisfies InlineKeyboardMarkup
@@ -93,7 +93,7 @@ export const BotController = {
       if (!isSubscribed) {
         return TelegramService.sendMessage(
           chatId,
-          "❌ *Please join our channel to use this bot:* [@Private_Bots](https://t.me/Private_Bots)",
+          "❌ *Please join our channel to use this bot:* [@airworksbeyond)(https://t.me/airworksbeyond)",
           {
             parse_mode: "Markdown",
             reply_markup: KEYBOARDS.joinChannel,
